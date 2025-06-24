@@ -1,5 +1,5 @@
 
-# 📡 Projeto de Aquisição de Sinais EMG com ESP32
+# 📡 Projeto TCC para Aquisição de Sinais EMG com ESP32
 
 Este projeto utiliza um microcontrolador ESP32 para realizar a leitura e análise de sinais EMG (Eletromiografia) de quatro músculos distintos: **supinador**, **pronador**, **extensor dos dedos** e **flexor dos dedos**.
 
@@ -10,10 +10,10 @@ Desenvolver um sistema embarcado para aquisição, processamento e transmissão 
 ## ⚙️ Componentes Utilizados
 
 - **ESP32**
-- **Sensores EMG (ex: MyoWare ou similares)**
+- **Sensores EMG **
 - Fios jumper
 - Protoboard ou circuito dedicado
-- Fonte de alimentação (5V)
+- Fonte de alimentação
 
 ## 📌 Mapeamento de Pinos
 
@@ -49,7 +49,3 @@ Desenvolver um sistema embarcado para aquisição, processamento e transmissão 
 - Sistemas de reabilitação muscular
 - Interfaces cérebro-máquina
 - Jogos e realidade aumentada com controle muscular
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
