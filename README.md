@@ -1,5 +1,5 @@
 
-# 📡 Projeto TCC para Aquisição de Sinais EMG com ESP32
+# 📡 Projeto TCC para Aquisição e Tratamento de Sinais EMG com ESP32
 
 Este projeto utiliza um microcontrolador ESP32 para realizar a leitura e análise de sinais EMG (Eletromiografia) de quatro músculos distintos: **supinador**, **pronador**, **extensor dos dedos** e **flexor dos dedos**.
 
